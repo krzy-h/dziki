@@ -1,3 +1,0 @@
-/root/git/dziki/krzys/cpp/hello/CMakeFiles/rebuild_cache.dir
-/root/git/dziki/krzys/cpp/hello/CMakeFiles/edit_cache.dir
-/root/git/dziki/krzys/cpp/hello/CMakeFiles/out.dir
